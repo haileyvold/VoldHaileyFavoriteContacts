@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VoldHaileyFavoriteContacts</string>
+
+    <string name="izzy_123_123_1574">Izzy: (123) 123-1574</string>
+    <string name="trace_562_184_1453">Trace: (562) 1843-1453</string>
+    <string name="mom_723_702_6573">Mom: (723) 702-6573</string>
+
+    <string name="callIzzy">Call</string>
+    <string name="callTrace">Call</string>
+    <string name="callMom">Call</string>
+    <string name="text_hiIzzy">Text Hi</string>
+    <string name="text_hiTrace">Text \'Hi\'</string>
+    <string name="text_hiMom">Text \'Hi\'</string>
+
+</resources>
